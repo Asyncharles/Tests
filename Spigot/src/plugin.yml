@@ -1,0 +1,9 @@
+name: CodeTestArea
+main: net.codetest.Main
+version: 0.1
+author: FinalVoid
+commands:
+  hypetrain:
+  sheep:
+  spline:
+  ptc:
